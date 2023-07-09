@@ -1,4 +1,4 @@
-package com.niyaj.openinapp.ui.theme
+package com.niyaj.openinapp.feature.common.ui.theme
 
 import android.app.Activity
 import android.os.Build
